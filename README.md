@@ -1,2 +1,3 @@
 # repo-demo
-This is my first gihub repository
+This is my first gihub repository.
+First time update.
